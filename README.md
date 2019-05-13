@@ -25,3 +25,9 @@ https://www.python.org/downloads/
 9.) To ensure type surround –h. It shows all necessary commands of surround.
 
 ![query solved3](https://user-images.githubusercontent.com/48539509/57619890-71869600-75ca-11e9-84a4-46708f3382f1.PNG)
+
+It successfully installed in windows.
+
+## Mac:-
+
+
