@@ -11,3 +11,9 @@ https://www.python.org/downloads/
 4.) Open command prompt.
 
 5.) Type python to ensure that python is successfully installed in your system.
+
+![Capture3](https://user-images.githubusercontent.com/48539509/57619548-831b6e00-75c9-11e9-9beb-b8ec1c05f372.PNG)
+
+6.) Then type exit() to get out from python environment.
+
+7.) Then type pip3 install surround
