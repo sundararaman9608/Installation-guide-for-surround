@@ -23,3 +23,5 @@ https://www.python.org/downloads/
 ![python](https://user-images.githubusercontent.com/48539509/57619660-d2619e80-75c9-11e9-9868-c87f85216c26.PNG)
 
 9.) To ensure type surround –h. It shows all necessary commands of surround.
+
+![query solved3](https://user-images.githubusercontent.com/48539509/57619890-71869600-75ca-11e9-84a4-46708f3382f1.PNG)
