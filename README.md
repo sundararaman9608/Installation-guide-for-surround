@@ -17,3 +17,9 @@ https://www.python.org/downloads/
 6.) Then type exit() to get out from python environment.
 
 7.) Then type pip3 install surround
+
+8.) Surround is installed in system.
+
+![python](https://user-images.githubusercontent.com/48539509/57619660-d2619e80-75c9-11e9-9868-c87f85216c26.PNG)
+
+9.) To ensure type surround –h. It shows all necessary commands of surround.
